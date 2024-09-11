@@ -1,0 +1,21 @@
+Running benchmark with 1 readers, 1 writers, 10000000 items, 1000 iterations
+Threads done, stats:
+Readers: min 0.000024 ms, max 10.949488 ms, mean 5.810315 ms, std_dev 0.495648
+Writers: min 0.000073 ms, max 5.435093 ms, mean 5.018974 ms, std_dev 0.319964
+Running benchmark with 2 readers, 1 writers, 10000000 items, 1000 iterations
+Threads done, stats:
+Readers: min 0.000024 ms, max 16.140908 ms, mean 5.421361 ms, std_dev 1.058616
+Writers: min 0.000059 ms, max 6.169256 ms, mean 5.144907 ms, std_dev 0.336740
+Running benchmark with 4 readers, 1 writers, 10000000 items, 1000 iterations
+Threads done, stats:
+Readers: min 0.000017 ms, max 58.573823 ms, mean 6.319655 ms, std_dev 6.560581
+Writers: min 0.000032 ms, max 5.755324 ms, mean 5.140075 ms, std_dev 0.464582
+Running benchmark with 8 readers, 1 writers, 10000000 items, 1000 iterations
+Threads done, stats:
+Readers: min 0.000017 ms, max 327.465947 ms, mean 15.435797 ms, std_dev 25.058242
+Writers: min 0.000036 ms, max 8.269232 ms, mean 7.627782 ms, std_dev 0.817614
+Running benchmark with 16 readers, 1 writers, 10000000 items, 1000 iterations
+Threads done, stats:
+Readers: min 0.000019 ms, max 410.047815 ms, mean 21.322148 ms, std_dev 36.532972
+Writers: min 0.000821 ms, max 44.616563 ms, mean 13.822394 ms, std_dev 6.639248
+
